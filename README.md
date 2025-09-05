@@ -3,7 +3,7 @@
 Eu sou <strong>Luz Vasconcelos</strong>, Designer gráfico formado pela UTU, Montevideo, com experiência em artes plásticas. 👨🏻‍💻 
 
 - 🚀 Atualmente estou estudando: <strong>Análise e Desenvolvimento de Sistemas</strong> 
-- 💬 Pergunte-me sobre: <strong>Artes visuais, design gráfico e cartoon</strong>
+- 💬 Pergunte-me sobre: <strong>Artes visuais, design gráfico e animações</strong>
 - 📣 Nós podemos falar em: <strong>Português, español & english</strong>
 
 <div align="center">
